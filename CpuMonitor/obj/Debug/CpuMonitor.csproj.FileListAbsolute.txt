@@ -1,0 +1,7 @@
+D:\Practice\Programming\C#\CpuMonitor\bin\Debug\CpuMonitor.exe.config
+D:\Practice\Programming\C#\CpuMonitor\bin\Debug\CpuMonitor.exe
+D:\Practice\Programming\C#\CpuMonitor\bin\Debug\CpuMonitor.pdb
+D:\Practice\Programming\C#\CpuMonitor\obj\Debug\CpuMonitor.csprojResolveAssemblyReference.cache
+D:\Practice\Programming\C#\CpuMonitor\obj\Debug\CpuMonitor.csproj.CoreCompileInputs.cache
+D:\Practice\Programming\C#\CpuMonitor\obj\Debug\CpuMonitor.exe
+D:\Practice\Programming\C#\CpuMonitor\obj\Debug\CpuMonitor.pdb
