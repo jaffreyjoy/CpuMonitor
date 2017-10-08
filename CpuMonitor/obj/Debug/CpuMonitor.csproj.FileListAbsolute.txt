@@ -5,3 +5,10 @@ D:\Practice\Programming\C#\CpuMonitor\obj\Debug\CpuMonitor.csprojResolveAssembly
 D:\Practice\Programming\C#\CpuMonitor\obj\Debug\CpuMonitor.csproj.CoreCompileInputs.cache
 D:\Practice\Programming\C#\CpuMonitor\obj\Debug\CpuMonitor.exe
 D:\Practice\Programming\C#\CpuMonitor\obj\Debug\CpuMonitor.pdb
+D:\Projects\College\OS\OS-mini-project\CpuMonitor\bin\Debug\CpuMonitor.exe.config
+D:\Projects\College\OS\OS-mini-project\CpuMonitor\bin\Debug\CpuMonitor.exe
+D:\Projects\College\OS\OS-mini-project\CpuMonitor\bin\Debug\CpuMonitor.pdb
+D:\Projects\College\OS\OS-mini-project\CpuMonitor\obj\Debug\CpuMonitor.csprojResolveAssemblyReference.cache
+D:\Projects\College\OS\OS-mini-project\CpuMonitor\obj\Debug\CpuMonitor.csproj.CoreCompileInputs.cache
+D:\Projects\College\OS\OS-mini-project\CpuMonitor\obj\Debug\CpuMonitor.exe
+D:\Projects\College\OS\OS-mini-project\CpuMonitor\obj\Debug\CpuMonitor.pdb
