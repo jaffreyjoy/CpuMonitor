@@ -1,0 +1,10 @@
+D:\Projects\College\OS\OS-mini-project\CpuMonitor_GUI\bin\Debug\CpuMonitor_GUI.exe.config
+D:\Projects\College\OS\OS-mini-project\CpuMonitor_GUI\bin\Debug\CpuMonitor_GUI.exe
+D:\Projects\College\OS\OS-mini-project\CpuMonitor_GUI\bin\Debug\CpuMonitor_GUI.pdb
+D:\Projects\College\OS\OS-mini-project\CpuMonitor_GUI\obj\Debug\CpuMonitor_GUI.csprojResolveAssemblyReference.cache
+D:\Projects\College\OS\OS-mini-project\CpuMonitor_GUI\obj\Debug\CpuMonitor_GUI.Form1.resources
+D:\Projects\College\OS\OS-mini-project\CpuMonitor_GUI\obj\Debug\CpuMonitor_GUI.Properties.Resources.resources
+D:\Projects\College\OS\OS-mini-project\CpuMonitor_GUI\obj\Debug\CpuMonitor_GUI.csproj.GenerateResource.Cache
+D:\Projects\College\OS\OS-mini-project\CpuMonitor_GUI\obj\Debug\CpuMonitor_GUI.csproj.CoreCompileInputs.cache
+D:\Projects\College\OS\OS-mini-project\CpuMonitor_GUI\obj\Debug\CpuMonitor_GUI.exe
+D:\Projects\College\OS\OS-mini-project\CpuMonitor_GUI\obj\Debug\CpuMonitor_GUI.pdb
